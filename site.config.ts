@@ -2,25 +2,25 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: 'c811c01b7d824f5ba966f688ee37652b',
+  rootNotionPageId: '44d1b472570b4ee6ad5eb821edce6ab5',
 
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '老苗',
-  domain: 'laomiao.site',
-  author: '老苗',
+  name: "BaldStrong's Logs Cabin",
+  domain: 'baldstrong.eu.org',
+  author: 'BaldStrong',
 
   // open graph metadata (optional)
   description: '专注技术、持续学习',
 
   // social usernames (optional)
-  twitter: 'laomiao_',
-  github: 'miaogaolin',
+  twitter: 'bald__strong',
+  github: 'baldstrong',
   linkedin: '',
-  zhihu: 'fan-zhong-li-luo-xie',
+  // zhihu: 'fan-zhong-li-luo-xie',
   language: 'zh',
   // newsletter: '#', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
@@ -56,7 +56,7 @@ export default siteConfig({
   navigationLinks: [
     {
       title: 'About',
-      pageId: '9d3cf695ba0f44e787fb3f9e6aa9fd25'
+      pageId: '44c0ebd7448e4a8984ad0a5a7ada2c06'
     }
   ]
   // navigationLinks: [
