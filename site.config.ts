@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'BaldStrong',
 
   // open graph metadata (optional)
-  description: '专注技术、持续学习',
+  description: '学习中的菜鸟',
 
   // social usernames (optional)
   twitter: 'bald__strong',
