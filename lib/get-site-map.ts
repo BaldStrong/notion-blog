@@ -39,7 +39,7 @@ async function getAllPagesImpl(
     rootNotionSpaceId,
     getPage,
     {
-      concurrency: 30
+      concurrency: 4
     }
   )
 
